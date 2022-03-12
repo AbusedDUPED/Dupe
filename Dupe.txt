@@ -1,1 +1,3 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/PSXDuplication%20DupedPets"))()
+
+Please Don't Abuse it! :) Happy Duping!
